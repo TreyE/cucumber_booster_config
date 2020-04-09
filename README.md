@@ -1,5 +1,7 @@
 # Cucumber Booster Config
 
+Note: This version is just an updated copy of the original with the new version number.
+
 [![Build Status](https://semaphoreci.com/api/v1/projects/b5ad1293-4dd1-425d-8c00-b42ceca09c75/527737/badge.svg)](https://semaphoreci.com/renderedtext/cucumber_booster_config)
 [![Gem Version](https://badge.fury.io/rb/semaphore_cucumber_booster_config.svg)](https://badge.fury.io/rb/semaphore_cucumber_booster_config)
 
